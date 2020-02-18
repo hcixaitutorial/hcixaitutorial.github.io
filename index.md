@@ -4,7 +4,7 @@
 
 **Location**: TBD
 
-**Instructors**: Q. Vera Liao, Moninder Singh, Yunfeng Zhang, Rachel Bellamy
+**Instructors**: <a href="www.qveraliao.com">Q. Vera Liao</a>, <a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-moninder">Moninder Singh</a>, <a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-zhangyun">Yunfeng Zhang</a>, <a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-rachel">Rachel Bellamy</a>
 
 CHI Program [link](https://chi2020.acm.org/authors/accepted-courses/#HotTopic22)
 
@@ -60,24 +60,6 @@ The intended audience are any CHI attendees who have already, or intend to engag
 
 Coming soon
 
-## Instructors
-
-**Q. Vera Liao**
-
-Vera is a Research Staff Member in IBM Research AI. Her research interests are on human-AI interaction and intelligent user interfaces. Her current work focuses on explainable AI, uman centered machine learning and user-aware conversational agents.  Her work contributed to IBM's AI Explainability 360, an open-source toolkit providing educational and technical resources for AI explainability.  Recently, she organized several workshops and a panel on topics that connect the HCI and AI communities at  CHI, CSCW and IUI. She received her Ph.D. in Computer science from the University of Illinois at Urbana-Champaign.
-
-**Moninder Singh**
-
-Moninder is a Research Staff Member in the IBM Research AI organization at the IBM T. J.Watson Research Center. He received his Ph.D. in Computer and Information Science from the University of Pennsylvania in 1998. He is primarily interested in developing and deploying solutions for interesting analytics and decision support problems. His main research areas are machine learning and data mining, artificial intelligence, data privacy, information retrieval, probabilistic modeling and reasoning, and text mining. He has been actively working in issues of fairness and trust in AI, has contributed to the IBM's AI Fairness 360 and AI Explainability 360 open source toolkits, and has given several tutorials/talks and published papers on issues relating to trust in AI models.
-
-
-**Yunfeng Zhang**
-
-Yunfeng is a Research Staff Member at IBM Research AI. His research interests lie in the intersection between HCI and AI. His recent research projects involved creating conversational agents, modeling social interactions, and studying AI explainability, fairness, and trust. He contributed to the IBM's AI Fairness 360 and AI Explainability 360 open source toolkits, which are designed to help AI developers create intelligible and fair AI solutions. He received his Ph.D. in computer and information science from the University of Oregon in 2015.
-
-**Rachel K.E. Bellamy**
-
-Rachel is a Principal Research Scientist and Chair of the Computer Sciences Council at IBM T J Watson Research Center. In this role she heads a Council that manages a Research portfolio of exploratory science projects. Prior to this, she led an interdisciplinary team of human-computer interaction researchers, user experience designers and software engineers. That team most recently contributed to several IBM Research's Trusted AI projects, including the AI Fairness 360 and AI Explanability 360. Rachel received her doctorate in cognitive psychology from University of Cambridge, UK. She received a Bachelor of Science in psychology with mathematics and computer science from University of London. Before coming to IBM Research, she worked in Apple Computer's Advanced Technology Group researching software support for collaborative learning.
 
 
 ## References
