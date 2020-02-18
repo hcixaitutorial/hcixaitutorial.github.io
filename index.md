@@ -4,7 +4,7 @@
 
 **Location**: TBD
 
-**Instructors**: <a href="https://qveraliao.com">Q. Vera Liao</a>, <a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-moninder">Moninder Singh</a>, <a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-zhangyun">Yunfeng Zhang</a>, <a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-rachel">Rachel Bellamy</a>
+**Instructors**: <a href="//www.qveraliao.com">Q. Vera Liao</a>, <a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-moninder">Moninder Singh</a>, <a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-zhangyun">Yunfeng Zhang</a>, <a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-rachel">Rachel Bellamy</a>
 
 **CHI Program** [link](https://chi2020.acm.org/authors/accepted-courses/#HotTopic22)
 
