@@ -12,7 +12,7 @@
 
 
 
-## Goal of the Tutorial
+## Goal of the Course
 
 We will address the following questions:
 
