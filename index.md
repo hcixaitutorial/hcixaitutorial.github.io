@@ -7,6 +7,7 @@
 **Presenters**: Q. Vera Liao, Moninder Singh, Yunfeng Zhang, Rachel Bellamy
 
 CHI Program [link](https://chi2020.acm.org/authors/accepted-courses/#HotTopic22)
+Slides [TBD]
 
 
 
@@ -16,7 +17,7 @@ We will address the following questions:
 
 - **What is Explainable AI (XAI)?**
 
-    What are the focuses of XAI work in Machine Learning and HCI communities? What problems does XAI solve?
+    What are the focuses of XAI work in various research communities (e.g., Machine Learning, HCI)? What problems does XAI solve?
 
 - **Why is XAI important?**
 
@@ -32,11 +33,20 @@ We will address the following questions:
     
 - **What is next?**
     
-    What are the important questions yet to be addressed? What are some promising future directions?
+    What are the important questions in XAI research yet to be addressed? What are some promising future directions?
     
     
 ## Overview
 
-The increasing adoption of AI, and in particular Machine Learning (ML) technologies that use opaque deep neural networks, has spurred great academic and public interest in Explainable AI (XAI).  On the one hand, the rapidly growing collection of XAI techniques allows diverse styles of explanations to be incorporated in AI systems. On the other hand, to deliver satisfying user experiences with AI explanations requires user-centered approaches and interdisciplinary research to connect user needs and the technical advancement. In short, XAI is an area with growing needs and exciting opportunities for HCI research. 
+The increasing adoption of AI, and in particular Machine Learning technologies that use opaque deep neural networks, has spurred great academic and public interest in Explainable AI (XAI).  On the one hand, the research community is producing a rapidly growing collection of XAI techniques. On the other hand, to deliver satisfying user experiences with AI explanations requires user-centered approaches and interdisciplinary research to connect user needs and the technical advancement. In short, XAI is an area with growing needs and exciting opportunities for HCI research. 
 
-This course is intended for HCI researchers and practitioners who are interested in developing and designing explanation features in AI systems, and those who want to understand the trends and core topics in the XAI literature. The course will also introduce available toolkits that make it easy to create explanations for ML models, including [AIX 360](http://aix360.mybluemix.net), a comprehensive toolkit providing technical and educational resources on the topic such as guidance for XAI concepts, python code libraries, tutorials, related literature, etc.
+This course is intended for HCI researchers and practitioners who are interested in developing and designing explanation features in AI systems, and those who want to understand the trends and core topics in XAI. We will particularly draw on our experience as and working with industry practioners to discuss the opportunities and challenges to incporate state-of-the-art XAI techniques in various AI applications[1]. 
+
+The course will also introduce available toolkits that make it easy to create XAI, including [AIX 360](http://aix360.mybluemix.net), a comprehensive toolkit providing technical and educational resources for XAI [2].Attendees will also the opportunity to gain hands-on experience with implementing multiple styles of explanations with AIX 360 and provided code samples. 
+
+**Outline**
+
+- Introduction to XAI, its definition and motivation
+- State-of-the-art XAI techniques, with real-world AI use cases wuch as [credit approval decision-support](http://aix360.mybluemix.net/data)
+- Overview of [AIX 360](http://aix360.mybluemix.net) and other available resources for XAI
+- Hands-on experience with implementing XAI techniques (optional)
