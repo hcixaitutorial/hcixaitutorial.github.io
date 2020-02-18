@@ -82,4 +82,5 @@ Rachel is a Principal Research Scientist and Chair of the Computer Sciences Coun
 ## References
 
 [1] Liao, Q. V., Gruen, D., & Miller, S. (2020). <a href="https://arxiv.org/abs/2001.02478"> Questioning the AI: Informing Design Practices for Explainable AI User Experiences</a>. To appear in CHI 2020
+
 [2] Arya, V., Bellamy, R. K., Chen, P. Y., Dhurandhar, A., Hind, M., Hoffman, S. C., ... & Mourad, S. (2019). <a href="https://arxiv.org/abs/1909.03012"> One explanation does not fit all: A toolkit and taxonomy of ai explainability techniques</a>. 
