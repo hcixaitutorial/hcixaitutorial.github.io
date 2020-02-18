@@ -7,6 +7,7 @@
 **Instructors**: Q. Vera Liao, Moninder Singh, Yunfeng Zhang, Rachel Bellamy
 
 CHI Program [link](https://chi2020.acm.org/authors/accepted-courses/#HotTopic22)
+
 Slides [To be posted after CHI]
 
 
@@ -40,14 +41,14 @@ We will address the following questions:
 
 The increasing adoption of AI, and in particular Machine Learning technologies that use opaque deep neural networks, has spurred great academic and public interest in Explainable AI (XAI).  On the one hand, the research community is producing a rapidly growing collection of XAI techniques. On the other hand, to deliver satisfying user experiences with AI explanations requires user-centered approaches and interdisciplinary research to connect user needs and the technical advancement. In short, XAI is an area with growing needs and exciting opportunities for HCI research. 
 
-This course is intended for HCI researchers and practitioners who are interested in developing and designing explanation features in AI systems, and those who want to understand the trends and core topics in XAI. We will particularly draw on our experience working with industry practitioners to discuss the opportunities and challenges to incporate state-of-the-art XAI techniques in various AI applications[1]. 
+This course is intended for HCI researchers and practitioners who are interested in developing and designing explanation features in AI systems, and those who want to understand the trends and core topics in XAI. We will particularly draw on our experience working with industry practitioners to discuss the opportunities and challenges to incorporate state-of-the-art XAI techniques in various AI applications[1]. 
 
 The course will also introduce available toolkits that make it easy to create XAI, including [AIX 360](http://aix360.mybluemix.net), a comprehensive toolkit providing technical and educational resources for XAI [2].Attendees will also the opportunity to gain hands-on experience with implementing multiple styles of explanations with AIX 360 and provided code samples. 
 
 **Outline**
 
 - Introduction to XAI, its definition and motivation
-- State-of-the-art XAI techniques, with real-world AI use cases wuch as [credit approval decision-support](http://aix360.mybluemix.net/data)
+- State-of-the-art XAI techniques, with real-world AI use cases such as [credit approval decision-support](http://aix360.mybluemix.net/data)
 - Overview of [AIX 360](http://aix360.mybluemix.net) and other available resources for XAI
 - Hands-on experience with implementing XAI techniques (optional)
 
