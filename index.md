@@ -22,7 +22,7 @@ We will address the following questions:
 
 - **Why is XAI important?**
 
-    What are the motivations for XAI work? What applications or situations need XAI?
+    What are the motivations for XAI? What applications or situations need XAI?
 
 - **How to explain?**
 
@@ -43,18 +43,18 @@ The increasing adoption of AI, and in particular Machine Learning technologies t
 
 This course is intended for HCI researchers and practitioners who are interested in developing and designing explanation features in AI systems, and those who want to understand the trends and core topics in XAI. We will particularly draw on our experience working with industry practitioners to discuss the opportunities and challenges to incorporate state-of-the-art XAI techniques in various AI applications [1]. 
 
-The course will also introduce available toolkits that make it easy to create XAI, including [AIX 360](http://aix360.mybluemix.net), a comprehensive toolkit providing technical and educational resources for XAI [2]. Attendees will also the opportunity to gain hands-on experience with implementing multiple styles of explanations with AIX 360 and provided code samples. 
+The course will also introduce available toolkits that make it easy to create XAI, including [AIX 360](http://aix360.mybluemix.net), a comprehensive toolkit providing technical and educational resources for XAI [2]. Attendees will also have the opportunity to gain hands-on experience with implementing multiple styles of explanations with AIX 360 and provided code samples. 
 
 **Outline**
 
-- Introduction to XAI, its definition and motivation
+- Introduction to XAI, its definition and motivations
 - State-of-the-art XAI techniques, with real-world AI use cases such as [credit approval decision-support](http://aix360.mybluemix.net/data)
 - Overview of [AIX 360](http://aix360.mybluemix.net) and other available resources for XAI
 - Hands-on experience with implementing XAI techniques (optional)
 
 ## Intended audience and prerequisites
 
-The intended audience are any CHI attendees who have already, or intend to engage in developing, designing and researching on the topic of XAI. The course does not require any advanced knowledge in AI, data science or programming, though a basic understanding of machine learning concepts such as classification, training data, and features could be helpful. The course will include a 15-20 minutes hands-on practice with Python code samples provided. The course instructors will provide instructions to use the code samples, as well as introductory materials for machine learning beforehand for interested attendees. 
+The intended audience are any CHI attendees who have already, or expect to engage in developing, designing and researching on the topic of XAI. The course does not require advanced knowledge in AI, data science or programming, though a basic understanding of machine learning concepts such as classification, training data, and features could be helpful. The course will include a 15-20 minutes hands-on practice with Python code samples provided. The course instructors will provide instructions to use the code samples, as well as introductory materials for machine learning beforehand for interested attendees. 
 
 ## Instructions for Attendees
 
