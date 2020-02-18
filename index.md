@@ -34,16 +34,16 @@ We will address the following questions:
     
 - **What is next?**
     
-    What are the important questions in XAI research yet to be addressed? What are some promising future directions?
+    What are the important questions in XAI yet to be addressed? What are some promising future directions?
     
     
 ## Overview
 
-The increasing adoption of AI, and in particular Machine Learning technologies that use opaque deep neural networks, has spurred great academic and public interest in Explainable AI (XAI).  On the one hand, the research community is producing a rapidly growing collection of XAI techniques. On the other hand, to deliver satisfying user experiences with AI explanations requires user-centered approaches and interdisciplinary research to connect user needs and the technical advancement. In short, XAI is an area with growing needs and exciting opportunities for HCI research. 
+The increasing adoption of AI, and in particular Machine Learning technologies that use opaque deep neural networks, has spurred great academic and public interest in Explainable AI (XAI). On the one hand, the research community is producing a rapidly growing collection of XAI techniques. On the other hand, to deliver satisfying user experiences with AI explanations requires user-centered approaches and interdisciplinary research to connect user needs and the technical advancement. In short, XAI is an area with growing needs and exciting opportunities for HCI research. 
 
-This course is intended for HCI researchers and practitioners who are interested in developing and designing explanation features in AI systems, and those who want to understand the trends and core topics in XAI. We will particularly draw on our experience working with industry practitioners to discuss the opportunities and challenges to incorporate state-of-the-art XAI techniques in various AI applications[1]. 
+This course is intended for HCI researchers and practitioners who are interested in developing and designing explanation features in AI systems, and those who want to understand the trends and core topics in XAI. We will particularly draw on our experience working with industry practitioners to discuss the opportunities and challenges to incorporate state-of-the-art XAI techniques in various AI applications [1]. 
 
-The course will also introduce available toolkits that make it easy to create XAI, including [AIX 360](http://aix360.mybluemix.net), a comprehensive toolkit providing technical and educational resources for XAI [2].Attendees will also the opportunity to gain hands-on experience with implementing multiple styles of explanations with AIX 360 and provided code samples. 
+The course will also introduce available toolkits that make it easy to create XAI, including [AIX 360](http://aix360.mybluemix.net), a comprehensive toolkit providing technical and educational resources for XAI [2]. Attendees will also the opportunity to gain hands-on experience with implementing multiple styles of explanations with AIX 360 and provided code samples. 
 
 **Outline**
 
@@ -54,7 +54,7 @@ The course will also introduce available toolkits that make it easy to create XA
 
 ## Intended audience and prerequisites
 
-The intended audience for this course are any CHI attendees who have already, or intend to engage in developing, designing and researching on the topic of XAI. The course does not require any advanced knowledge in AI, data science or programming, though a basic understanding of machine learning concepts such as classification, training data, and features could be helpful. The course will include a 15-20 minutes hands-on practice with Python code samples provided. The course instructors will provide instructions to use the code samples, as well as introductory materials for machine learning and Python programming beforehand for interested attendees. 
+The intended audience are any CHI attendees who have already, or intend to engage in developing, designing and researching on the topic of XAI. The course does not require any advanced knowledge in AI, data science or programming, though a basic understanding of machine learning concepts such as classification, training data, and features could be helpful. The course will include a 15-20 minutes hands-on practice with Python code samples provided. The course instructors will provide instructions to use the code samples, as well as introductory materials for machine learning beforehand for interested attendees. 
 
 ## Instructions for Attendees
 
