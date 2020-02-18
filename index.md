@@ -15,7 +15,9 @@ CHI Program [link](https://chi2020.acm.org/authors/accepted-courses/#HotTopic22)
 The tutorial will answer the following questions:
 
 - **What is Explainable AI (XAI)?**
+
 What are the focuses of XAI work in Machine Learning and HCI communities? What problems does XAI address?
 
 - **Why is XAI important?**
+
 What are the motivations for XAI work? What applications or situations need XAI?
