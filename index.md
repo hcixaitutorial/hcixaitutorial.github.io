@@ -40,7 +40,7 @@ We will address the following questions:
 
 The increasing adoption of AI, and in particular Machine Learning technologies that use opaque deep neural networks, has spurred great academic and public interest in Explainable AI (XAI).  On the one hand, the research community is producing a rapidly growing collection of XAI techniques. On the other hand, to deliver satisfying user experiences with AI explanations requires user-centered approaches and interdisciplinary research to connect user needs and the technical advancement. In short, XAI is an area with growing needs and exciting opportunities for HCI research. 
 
-This course is intended for HCI researchers and practitioners who are interested in developing and designing explanation features in AI systems, and those who want to understand the trends and core topics in XAI. We will particularly draw on our experience as and working with industry practioners to discuss the opportunities and challenges to incporate state-of-the-art XAI techniques in various AI applications[1]. 
+This course is intended for HCI researchers and practitioners who are interested in developing and designing explanation features in AI systems, and those who want to understand the trends and core topics in XAI. We will particularly draw on our experience working with industry practitioners to discuss the opportunities and challenges to incporate state-of-the-art XAI techniques in various AI applications[1]. 
 
 The course will also introduce available toolkits that make it easy to create XAI, including [AIX 360](http://aix360.mybluemix.net), a comprehensive toolkit providing technical and educational resources for XAI [2].Attendees will also the opportunity to gain hands-on experience with implementing multiple styles of explanations with AIX 360 and provided code samples. 
 
@@ -77,3 +77,9 @@ Yunfeng is a Research Staff Member at IBM Research AI. His research interests li
 **Rachel K.E. Bellamy**
 
 Rachel is a Principal Research Scientist and Chair of the Computer Sciences Council at IBM T J Watson Research Center. In this role she heads a Council that manages a Research portfolio of exploratory science projects. Prior to this, she led an interdisciplinary team of human-computer interaction researchers, user experience designers and software engineers. That team most recently contributed to several IBM Research's Trusted AI projects, including the AI Fairness 360 and AI Explanability 360. Rachel received her doctorate in cognitive psychology from University of Cambridge, UK. She received a Bachelor of Science in psychology with mathematics and computer science from University of London. Before coming to IBM Research, she worked in Apple Computer's Advanced Technology Group researching software support for collaborative learning.
+
+
+## References
+
+[1] Liao, Q. V., Gruen, D., & Miller, S. (2020). <a href="https://arxiv.org/abs/2001.02478"> Questioning the AI: Informing Design Practices for Explainable AI User Experiences</a>. To appear in CHI 2020
+[2] Arya, V., Bellamy, R. K., Chen, P. Y., Dhurandhar, A., Hind, M., Hoffman, S. C., ... & Mourad, S. (2019). <a href="https://arxiv.org/abs/1909.03012"> One explanation does not fit all: A toolkit and taxonomy of ai explainability techniques</a>. 
