@@ -1,6 +1,6 @@
-**Date**: Thursday, April 30, 2020
+**Date**: TBD
 
-**Time**: 11:00 AM - 12:15 PM
+**Time**: TBD
 
 **Location**: TBD
 
