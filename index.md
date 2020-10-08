@@ -30,7 +30,7 @@ We will address the following questions:
 
 - **Where to start with XAI?**
  
-    What tools are available for implementing XAI techniques? What guidelines are available for desigining XAI? Where to find relevant technical or educational resources?
+    What tools are available for implementing XAI techniques? What guidelines are available for designing XAI? Where to find relevant technical or educational resources?
     
 - **What is next?**
     
