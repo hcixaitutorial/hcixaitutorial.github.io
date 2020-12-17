@@ -12,7 +12,7 @@
 
 
 
-## Goal of the Course
+## Goals of the Course
 
 We will address the following questions:
 
