@@ -2,9 +2,9 @@
 
 **Time**: Note this course will be taught twice at CHI 2021:
 
-Monday May 10: CEST 16-18 / PDT 08-10 / EDT 11-13 / JST 00-02 (next day)
+Monday May 10: CEST 17-19 / PDT 08-10 / EDT 11-13 / JST 00-02 (next day)
 
-Wednesday May 12: CEST 16-18 / PDT 08-10 / EDT 11-13 / JST 00-02 (next day)
+Wednesday May 12: CEST 17-19 / PDT 08-10 / EDT 11-13 / JST 00-02 (next day)
 
 
 **Location**: TBD
