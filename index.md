@@ -1,5 +1,7 @@
 
-**Time**: Note this course will be taught twice at CHI 2021:
+**Time**: 
+
+Note this course will be taught twice at CHI 2021:
 
 Monday May 10: CEST 17-19 / PDT 08-10 / EDT 11-13 / JST 00-02 (next day)
 
@@ -62,7 +64,7 @@ The course will include 15-20 minutes hands-on practice with Python code samples
 
 ## Instructions for Attendees
 
-Coming soon
+Check out this course <a href="qveraliao.com/chi_course_notes.pdf">notes</a>. 
 
 
 
