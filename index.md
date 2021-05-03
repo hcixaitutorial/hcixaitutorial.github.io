@@ -46,7 +46,7 @@ Artificial Intelligence (AI) technologies are increasingly used to make decision
 
 This course is intended for HCI researchers and practitioners who are interested in developing and designing explanation features in AI systems, and those who want to understand the trends and core topics in the XAI literature. The course will introduce available toolkits that make it easy to create explanations for ML models, including <a href="http://aix360.mybluemix.net">AIX 360</a> [1], a comprehensive toolkit providing technical and educational resources on the topic such as introduction to XAI concepts, python code libraries, and tutorials.
 
-We will also draw on our experience designing and studying XAI systemsn[3-6], as well as learning from industry design practitioners [2] to discuss opportunities and challenges to incorporate state-of-the-art XAI techniques in AI systems, including a "question-driven XAI design process"[7] we developed through our research.
+We will also draw on our own experience designing and studying XAI systems [3-6], as well as learning from industry design practitioners [2] to discuss opportunities and challenges to incorporate state-of-the-art XAI techniques in AI systems, including a "question-driven XAI design process"[7] we developed through our research.
 
 **Outline**
 
