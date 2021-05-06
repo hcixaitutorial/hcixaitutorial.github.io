@@ -47,7 +47,7 @@ Artificial Intelligence (AI) technologies are increasingly used to make decision
 
 This course is intended for HCI researchers and practitioners who are interested in developing and designing explanation features in AI systems, and those who want to understand the trends and core topics in the XAI literature. The course will introduce available toolkits that make it easy to create explanations for ML models, including <a href="http://aix360.mybluemix.net">AIX 360</a> [1], a comprehensive toolkit providing technical and educational resources on the topic such as introduction to XAI concepts, python code libraries, and tutorials.
 
-We will also draw on our own experience designing and studying XAI systems [3-6], as well as learning from industry design practitioners [2] to discuss opportunities and challenges to incorporate state-of-the-art XAI techniques in AI systems, including a "question-driven XAI design process"[7] we developed through our research.
+We will also draw on our own experience designing and studying XAI systems [3-8], as well as learning from industry design practitioners [2] to discuss opportunities and challenges to incorporate state-of-the-art XAI techniques in AI systems, including a "question-driven XAI design process"[9] we developed through our research.
 
 **Outline**
 
@@ -81,6 +81,8 @@ Check out this course <a href="qveraliao.com/chi_course_notes.pdf">notes</a>.
 
 [5] Ghai, B., Liao, Q. V., Zhang, Y., Bellamy, R., & Mueller, K. (2021). <a href="https://arxiv.org/abs/2001.09219"> Explainable Active Learning (XAL) Toward AI Explanations as Interfaces for Machine Teachers</a>. CSCW 2021
 
-[6] Ehsan, U., Liao, Q. V., Muller, M., Riedl, M. O., & Weisz, J. D. (2021). <a href="https://arxiv.org/abs/2101.04719"> Expanding Explainability: Towards Social Transparency in AI systems</a>. CHI 2021
+[7] Narkar, S., Zhang, Y., Liao, Q. V., Wang, D., & Weisz, J. D. <a href="https://arxiv.org/abs/2104.04375">Model LineUpper: Supporting Interactive Model Comparison at Multiple Levels for AutoML</a>. IUI 2021
 
-[7] Liao, Q. V., Pribić, M., Han, J., Miller, S., & Sow, D. (2021). <a href="https://arxiv.org/abs/2101.04719"> Question-Driven Design Process for Explainable AI User Experiences</a>. Working Paper
+[8] Ehsan, U., Liao, Q. V., Muller, M., Riedl, M. O., & Weisz, J. D. (2021). <a href="https://arxiv.org/abs/2101.04719"> Expanding Explainability: Towards Social Transparency in AI systems</a>. CHI 2021
+
+[9] Liao, Q. V., Pribić, M., Han, J., Miller, S., & Sow, D. (2021). <a href="https://arxiv.org/abs/2101.04719"> Question-Driven Design Process for Explainable AI User Experiences</a>. Working Paper
