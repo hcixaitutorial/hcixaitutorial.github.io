@@ -8,7 +8,7 @@ Monday May 10: CEST 17-19 / PDT 08-10 / EDT 11-13 / JST 00-02 (next day)
 Wednesday May 12: CEST 17-19 / PDT 08-10 / EDT 11-13 / JST 00-02 (next day)
 
 
-**Location**: TBD
+**Location**: Zoom link through conference platform
 
 **Instructors**: <a href="http://qveraliao.com">Q. Vera Liao</a>, <a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-moninder">Moninder Singh</a>, <a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-zhangyun">Yunfeng Zhang</a>, <a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-rachel">Rachel Bellamy</a>
 
