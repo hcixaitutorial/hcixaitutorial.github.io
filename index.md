@@ -12,9 +12,9 @@ Wednesday May 12: CEST 17-19 / PDT 08-10 / EDT 11-13 / JST 00-02 (next day)
 
 **Instructors**: <a href="http://qveraliao.com">Q. Vera Liao</a>, <a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-moninder">Moninder Singh</a>, <a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-zhangyun">Yunfeng Zhang</a>, <a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-rachel">Rachel Bellamy</a>
 
-**CHI Program** <a href="https://chi2021.acm.org/accepted-courses-2#C03">Link</a>
+**CHI Program**: <a href="https://chi2021.acm.org/accepted-courses-2#C03">Link</a>
 
-**Slides** [To be posted after CHI]
+**Slides**: <a href="http://qveraliao.com/xai_tutorial.pdf">Link</a>
 
 
 
