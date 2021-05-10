@@ -64,7 +64,7 @@ The course will include 15-20 minutes hands-on practice with Python code samples
 
 ## Instructions for Attendees
 
-Check out this course <a href="qveraliao.com/chi_course_notes.pdf">notes</a>. 
+Check out this course <a href="http://qveraliao.com/chi_course_notes.pdf">notes</a>. 
 
 
 
