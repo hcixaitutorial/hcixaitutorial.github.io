@@ -28,32 +28,34 @@ We will address the following questions:
 
 - **Why is XAI important?**
 
-    What are the motivations for XAI? What applications or situations need XAI?
+    What are the motivations for XAI? What is XAI the foundation for responsible AI?
 
-- **How to explain?**
+- **How to explain AI?**
+ 
+    What are the state-of-the-art XAI techniques? 
 
-    What are the state-of-the-art XAI techniques? How to determine their suitability for different AI applications, users and contexts? How to design XAI user experiences?
+- **How to design XAI user experiences?**
 
+    What are the design methods and guidelines for XAI UX? What are the design challenges? What are some solutions explored?
+    
 - **Where to start with XAI?**
  
-    What tools are available for implementing XAI? What guidelines are available for designing XAI? Where to find relevant resources?
+    Where to find relevant resources for impleneting XAI techinques and desigining XAI UX?
     
 
     
     
 ## Overview
 
-Artificial Intelligence (AI) technologies are increasingly used to make decisions and perform autonomous tasks in critical domains such as healthcare, finance, and employment. The needs to understand AI in order to improve, contest, develop appropriate trust and better interact with AI systems have spurred great academic and public interest in Explainable AI (XAI). On the one hand, the rapidly growing collection of XAI techniques allows diverse styles of explanations to be incorporated in AI systems. On the other hand, to deliver satisfying user experiences with AI explanations requires user-centered approaches and interdisciplinary research to connect user needs and technical advancement. In short, XAI is an area with growing needs and exciting opportunities for HCI research. 
+Artificial Intelligence (AI) technologies are increasingly used to make decisions and perform autonomous tasks in critical domains such as healthcare, finance, and employment. The needs to understand AI in order to improve, contest, develop appropriate trust and better interact with AI systems have spurred great academic and public interest in Explainable AI (XAI). On the one hand, the rapidly growing collection of XAI techniques allows diverse styles of explanations to be incorporated in AI systems. On the other hand, to deliver satisfying user experiences with AI explanations requires user-centered approaches and interdisciplinary research to connect user needs and technical affordance. In short, XAI is an area with growing needs and exciting opportunities for HCI research. 
 
 This course is intended for HCI researchers and practitioners who are interested in developing and designing explanation features in AI systems, and those who want to understand the trends and core topics in the XAI literature. The course will introduce available toolkits that make it easy to create explanations for ML models, including <a href="http://aix360.mybluemix.net">AIX 360</a> [1], a comprehensive toolkit providing technical and educational resources on the topic such as introduction to XAI concepts, python code libraries, and tutorials.
 
-We will also draw on our own experience designing and studying XAI systems [3-8], as well as learning from industry design practitioners [2] to discuss opportunities and challenges to incorporate state-of-the-art XAI techniques in AI systems, including a "question-driven XAI design process"[9] we developed through our research.
+We will also draw on our own experience designing and studying XAI systems [3-8], as well as learning from industry design practitioners [2] to discuss opportunities and challenges to incorporate state-of-the-art XAI techniques in AI systems to create good XAI UX, including a "question-driven XAI design process"[9] we developed through our research.
 
 **Outline**
 
-- Overview of XAI
-- Introduction to XAI methods and toolkits, including [AIX 360](http://aix360.mybluemix.net), with real-world AI use cases such as [credit approval decision-support](http://aix360.mybluemix.net/data)
-- Introduction to resources for desigining XAI user experiences. 
+- Overview of XAI covering the questions above (~80 minutes)
 - Hands-on experience with AIX 360 (optional)
 
 ## Intended audience and prerequisites
