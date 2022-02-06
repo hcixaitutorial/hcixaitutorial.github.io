@@ -28,7 +28,7 @@ We will address the following questions:
 
 - **Why is XAI important?**
 
-    What are the motivations for XAI? What is XAI the foundation for responsible AI?
+    What are the motivations for XAI? Why is XAI the foundation for responsible AI?
 
 - **How to explain AI?**
  
